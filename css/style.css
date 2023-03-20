@@ -14,7 +14,6 @@
 
 .header-nav-item{
     margin:0 3% 0 0;
-    
 }
 
 .header-nav-item > a{
@@ -69,16 +68,15 @@ color:darkcyan;
 }
 
 .news-part{
-    margin:30% 0 0 0;
-}
+    margin:15% 0 0 0;
 
+}
 
 .news{
     font-family: 'Indie Flower', cursive;
     color:mediumvioletred;
     margin-bottom: 1%;;
     margin-left: 20%;
-
 }
 
 .news-list::before{
@@ -132,7 +130,6 @@ color:darkcyan;
     padding:0.5% 3%;
     border-radius: 15px;
     text-decoration: none;
-
 }
 
 .column{
@@ -173,7 +170,6 @@ color:darkcyan;
     line-height: 30px;
     color:gray;
     z-index: 1;
-
 }
 
 .about-jpg{
@@ -204,36 +200,36 @@ color:darkcyan;
     margin-bottom: 5%;
     margin-left: 15%;
 }
- .service-img{
+
+.service-img{
     left:12%;
     display: grid;
     grid-template-rows:200px 200px;
     grid-template-columns: 1fr 1fr;
     width: 90%;
- }
+}
 
- .service-content2{
+.service-content2{
     display: flex;
     justify-content: center;
     margin-left:10%;
- }
-
- .service1{
+}
+.service1{
     grid-column: 1/2;
     grid-row: 1/3;
     background-color: mediumvioletred;
- }
+}
 
- .service1 > img{
+.service1 > img{
     top: 10%;
     left:35%;
     width:30%;
     margin-left:30%;
     margin-top:5%;
 
- }
+}
 
- 
+
 
 .service1 > h3{
     top:15%;
@@ -243,7 +239,6 @@ color:darkcyan;
     font-weight: bold;
     margin-top: 7%;
     margin-left:40%;
-
 }
 
 .service-text1{
@@ -255,16 +250,16 @@ color:darkcyan;
     margin-top:3%;
     margin-left:5%;
 }
- 
- .service2{
+
+.service2{
     grid-column: 2/3;
     grid-row: 1/2;
     background-color:#CC6699;
     overflow: hidden;
     white-space: nowrap;
- }
+}
 
- .service2 > img{
+.service2 > img{
     top: 15%;
     left:7%;
     width:25%;
@@ -272,11 +267,11 @@ color:darkcyan;
     padding-top:10%;
     overflow: hidden;
 
- }
+}
 
- 
 
- .service-subtitle2{
+
+.service-subtitle2{
     left:40%;
     color:white;
     font-size: 17px;
@@ -295,24 +290,24 @@ color:darkcyan;
     margin-left:30%;
     margin-top:5%;
 }
- 
 
- .service3{
+
+.service3{
     background-color: #cc8fb8;
     white-space: nowrap;
- }
+}
 
- .service3 > img{
+.service3 > img{
     top: 15%;
     left:7%;
     width:25%;
     margin-left: 3%;
-    padding-top:10%；
- }
+    padding-top:10%;
+}
 
 
- 
- .service3 > h3{
+
+.service3 > h3{
     left:35%;
     color:white;
     font-size: 17px;
@@ -320,34 +315,34 @@ color:darkcyan;
     bottom:55%;
     margin-left:30%;
     margin-top:-20%;
- }
+}
 
 
- .service-text3{
+.service-text3{
     font-size: 15px;
     color:white;
     margin-left:30%;
     line-height: normal;
     margin-top:5%;
- }
+}
 
- .blog{
+.blog{
     top: 1000px;
     background-color: whitesmoke;
     width: 100%;
     height:700px;
     margin-top:10%;
- }
+}
 
- .blog-letter{
+.blog-letter{
     font-family: 'Indie Flower', cursive;
     color:mediumvioletred;
     top:70px;
     margin-left:12%;
     padding-top: 5%;
- }
+}
 
- .blog-title{
+.blog-title{
     top:20px;
     color: gray;
     font-size: 20px;
@@ -356,29 +351,29 @@ color:darkcyan;
     margin-top:1%;
 }
 
- .blog-contents{
+.blog-contents{
     display: flex;
     width:82%;
     left:3%;
     margin-left:10%;
     margin-right:3%;
     margin-top:5%;
- }
+}
 
- .card{
+.card{
     position: relative;
     margin-left: 3%;
- }
+}
 
- .blog-firstjpg{
+.blog-firstjpg{
     width:80%;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
     top:150px;
     left:48%;
- }
+}
 
- .blog-icon{
+.blog-icon{
     position:absolute;
     color:white;
     border-top-left-radius: 15px;
@@ -387,11 +382,11 @@ color:darkcyan;
     font-size:100%;
     padding: 2% 5% 2% 5%;
     bottom:90.8%;
- }
+}
 
 
 
- .blog_under-contents{
+.blog_under-contents{
     background-color: white;
     height:150px;
     width:80%;
@@ -399,38 +394,37 @@ color:darkcyan;
     left:48%;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
- }
+}
 
- .blog-text{
+.blog-text{
     color:grey;
     font-weight:bold;
-    width:;
     left:5%;
     line-height: normal;
     top:30px;
     font-size: 15px;
     margin-left:7%;
     padding-top:10%;
- }
+}
 
- .blog_under-contents2{
+.blog_under-contents2{
     display: flex;
     justify-content: space-around;
     margin:10% 0 0 0;
- }
+}
 
 
- .blog-date{
-    color:grey; 
+.blog-date{
+    color:grey;
     font-size:80%;
- }
+}
 
- .blog-hashtag{
-    color:grey; 
+.blog-hashtag{
+    color:grey;
     font-size:80%;
- }
+}
 
- .blog-allpage{
+.blog-allpage{
     color:mediumvioletred;
     background-color: white;
     top:565px;
@@ -446,9 +440,9 @@ color:darkcyan;
     width:10%;
     margin-left:40%;
     margin-top:3%;
- }
+}
 
- .company{
+.company{
     width:100%;
     margin-top:10%;
     display: flex;
@@ -582,8 +576,6 @@ color:darkcyan;
     border-radius: 40px;
     background: linear-gradient(to right ,hotpink ,mediumvioletred  );
     box-shadow: 0 5px 0 mediumvioletred /* 影の太さ・色 */
-    
-
 }
 
 .footer{
@@ -593,11 +585,9 @@ color:darkcyan;
     padding:2% 0 2% 0;
     white-space: nowrap;
     width:100%;
-
 }
 
 small{
     display:flex;
     justify-content:center;
-
 }
